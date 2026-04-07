@@ -1,5 +1,11 @@
 # Hans the Organizator
 
-Hans the Organizator was the first implemented DIN App. Humorously named it is intended to be a family organizer (that was was "going to be [Huge](https://github.com/Data-Independence-Network/trunk-core/blob/main/docs/History_Drivers_and_Overview.md)!" - I didn't "sell out" on the imagined monetary potential,  the necessity of the [AIRport technology](https://github.com/beyond-decentralized) for the App and the associated "cool off" came later, and decided to share my overenthusiastic idea with as many friends as possible trying to get them involved). No thoughts of it's initial NLNM simulation use could have been present. Likely as with other apps, it's initial use in [NLNM simulations](https://github.com/Past-The-War-Earth/NLNM-combat-simulation/issues/1) will naturally define the features that are really needed.
+Hans the Organizator was the first implemented DIN App. Humorously named it is intended to be a family organizer (that was was "going to be [Huge](https://github.com/Data-Independence-Network/trunk-core/blob/main/docs/History_Drivers_and_Overview.md)!" - I didn't "sell out" on the imagined monetary potential,  the necessity of the [AIRport technology](https://github.com/beyond-decentralized) for the App and the associated "cool off" came later, and decided to share my overenthusiastic idea with as many friends as possible trying to get them involved). 
 
-The original idea in it is "gravity balls" - color and size coded (Eithnhower Matrix based) circles that gravitationally fall together, with biggest tasks coming in first in the middle.  This is a great intuitive AR heads up display for NLNM commanders that can re-assemble every time there is a change in task composition, importance or urgency.
+The original idea in it is "gravity balls" - color and size coded (Eithnhower Matrix based) circles that gravitationally fall together, with biggest tasks coming in first in the middle.
+
+## Use in NLNM Simulation
+
+No thoughts of it's NLNM simulation use could have been present.  It's UI interface is imagined to be an intuitive AR heads up display that re-assembles every time there is a change in task composition, importance or urgency.  Likely as with other apps, it's [initial use](https://github.com/Past-The-War-Earth/NLNM-combat-simulation/issues/1) will naturally define the features that are really needed.
+
+  
